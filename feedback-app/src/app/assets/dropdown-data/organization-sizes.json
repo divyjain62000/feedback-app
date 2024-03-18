@@ -1,0 +1,6 @@
+[
+    { "name": "Small (1-50 employees)", "id": "S" },
+    { "name": "Medium (51-250 employees)", "id": "M" },
+    { "name": "Large (251-1000 employees)", "id": "L" },
+    { "name": "Enterprise (1000+ employees)", "id": "E" }
+]

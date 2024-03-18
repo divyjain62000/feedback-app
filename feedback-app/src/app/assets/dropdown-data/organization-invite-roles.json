@@ -1,0 +1,4 @@
+[
+    { "id": "ORGANIZATION_OPERATOR", "name": "Operator" },
+    { "id": "ENGINEER", "name": "Engineer" }
+]

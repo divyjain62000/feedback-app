@@ -1,0 +1,98 @@
+[
+        {
+            "name": "Co-Founder",
+            "id": "Co-Founder"
+        },
+        {
+            "name": "CEO",
+            "id": "CEO"
+        },
+        {
+            "name": "Software Developer",
+            "id": "Software Developer"
+        },
+        {
+            "name": "System Administrator",
+            "id": "System Administrator"
+        },
+        {
+            "name": "IT Manager / Director",
+            "id": "IT Manager / Director"
+        },
+        {
+            "name": "Project Manager",
+            "id": "Project Manager"
+        },
+        {
+            "name": "Data Analyst / Data Scientist",
+            "id": "Data Analyst / Data Scientist"
+        },
+        {
+            "name": "Network Engineer / Architect",
+            "id": "Network Engineer / Architect"
+        },
+        {
+            "name": "Database Administrator",
+            "id": "Database Administrator"
+        },
+        {
+            "name": "QA Engineer",
+            "id": "QA Engineer"
+        },
+        {
+            "name": "Business Analyst",
+            "id": "Business Analyst"
+        },
+        {
+            "name": "UX/UI Designer",
+            "id": "UX/UI Designer"
+        },
+        {
+            "name": "Product Manager",
+            "id": "Product Manager"
+        },
+        {
+            "name": "DevOps Engineer",
+            "id": "DevOps Engineer"
+        },
+        {
+            "name": "Cybersecurity Analyst / Specialist",
+            "id": "Cybersecurity Analyst / Specialist"
+        },
+        {
+            "name": "Technical Support",
+            "id": "Technical Support"
+        },
+        {
+            "name": "IT Consultant",
+            "id": "IT Consultant"
+        },
+        {
+            "name": "Data Engineer",
+            "id": "Data Engineer"
+        },
+        {
+            "name": "Cloud Architect",
+            "id": "Cloud Architect"
+        },
+        {
+            "name": "Digital Marketing Manager",
+            "id": "Digital Marketing Manager"
+        },
+        {
+            "name": "Content Creator / Writer",
+            "id": "Content Creator / Writer"
+        },
+        {
+            "name": "Sales / Account Manager",
+            "id": "Sales / Account Manager"
+        },
+        {
+            "name": "Student",
+            "id": "Student"
+        },
+        {
+            "name": "Other",
+            "id": "Other"
+        }
+    ]

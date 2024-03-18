@@ -1,0 +1,74 @@
+{
+    "login": {
+        "username": {
+            "required": "Username or Email is required"
+        },
+        "password": {
+            "required": "Password is required"
+        }
+    },
+    "registration": {
+        "username": {
+            "required": "Username is required",
+            "max": "Must be 25 characters or less"
+        },
+        "firstName": {
+            "required": "First name is required",
+            "max": "Must be 25 characters or less"
+        },
+        "lastName": {
+            "required": "Last name is required",
+            "max": "Must be 25 characters or less"
+        },
+        "email": {
+            "required": "Email is required",
+            "invalid": "Invalid email address"
+        },
+        "mobile": {
+            "required": "Mobile number is required",
+            "invalid": "Mobile number must be 10 digits"
+        },
+        "password": {
+            "required": "Password is required",
+            "min": "Password must be at least 8 characters",
+            "policy": "Password must contain at least one uppercase letter, one lowercase letter, one number, and one special character"
+        },
+        "confirmPassword": {
+            "match": "Passwords must match",
+            "required": "Confirm password is required"
+        }
+    },
+    "accountVerification": {
+        "emailOTP": {
+            "required": "OTP is required"
+        }
+    },
+    "organizationInvite": {
+        "email": {
+            "min": "Atleast one email is required",
+            "max": "You can't send invitation to more than 50 members at a time",
+            "invalid": "Your list contains invalid emails"
+        },
+        "role": {
+            "required": "Role is required"
+        }
+    },
+    "resetPassword": {
+        "email": {
+            "required": "Email is required",
+            "invalid": "Invalid email address"
+        },
+        "password": {
+            "required": "Password is required",
+            "min": "Password must be at least 8 characters",
+            "policy": "Password must contain at least one uppercase letter, one lowercase letter, one number, and one special character"
+        },
+        "confirmPassword": {
+            "match": "Passwords must match",
+            "required": "Confirm password is required"
+        },
+        "resetPasswordOTP": {
+            "required": "OTP is required"
+        }
+    }
+}

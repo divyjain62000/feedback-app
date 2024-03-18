@@ -1,0 +1,27 @@
+{
+    "registration": {
+        "title": "Registration Successful",
+        "body": "Please click the button below to verify your email.",
+        "actionButtonLabel": "Verify"
+    },
+    "emailVerification": {
+        "title": "Email Verification Required",
+        "body": "To verify your email, please enter your email address and click 'Verify' below.",
+        "actionButtonLabel": "Verify",
+        "closeButtonLabel": "Close"
+    },
+    "accountSetupCompleted": {
+        "title": "Registration Process Completed",
+        "body": "Congratulations! You've successfully completed the registration process. You can now access and enjoy all the features of the application. Welcome aboard!",
+        "closeButtonLabel": "Close"
+    },
+    "organizationInviteSent": {
+        "title": "Invitations on Their Way!",
+        "body": "Your recipients will receive them shortly.",
+        "closeButtonLabel": "close"
+    },
+    "resetPassword": {
+        "title": "Reset Password",
+        "closeButtonLabel": "close"
+    }
+}
