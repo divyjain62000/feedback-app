@@ -48,3 +48,6 @@ npm run start
 ```
 node server.js
 ```
+#### Admin Credentials
+Email-Id: admin@admin.com
+password: admin
